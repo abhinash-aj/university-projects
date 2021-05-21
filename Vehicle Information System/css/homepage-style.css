@@ -1,0 +1,87 @@
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url("../Fonts/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url("../Fonts/Montserrat-Regular.ttf");
+}
+
+.form-logout {
+    margin-left: 2%;
+}
+
+#carousel-img {
+    height: 91vh;
+}
+
+#main-carousel {
+    margin-top: 1px;
+}
+
+.heading-class {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 800px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Montserrat-SemiBold;
+}
+
+p {
+    font-family: Montserrat-Regular;
+    font-size: 12px;
+}
+
+.my-card {
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.30), 0 10px 8px rgba(0,0,0,0.22);
+    padding-top: 15px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.icon-div {
+    text-align: center;
+}
+
+.my-working-card {
+    text-align: center;
+    width: 250px;
+    height: 200px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.30), 0 5px 5px rgba(0,0,0,0.22);
+    padding-top: 15px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.my-footer {
+    text-align: center;
+    margin-top: 5px;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 10px;
+}
+
+#footer-para {
+    color: white;
+}
+
+.mydropdown {
+    margin-left: 10px;
+}

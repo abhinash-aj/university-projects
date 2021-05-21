@@ -1,0 +1,42 @@
+#add-btn {
+    margin-right: 10px;
+}
+
+.mytable {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.form-group input[type=text] {
+    margin-top: 10px;
+}
+
+#color-field {
+    margin-bottom: 10px;
+}
+
+#condition-select, #status-select {
+    margin-top: 10px;
+}
+
+.search-control {
+    margin-top: 30px;
+}
+
+#select-option {
+    width: 200px;
+}
+
+#search-field {
+    width: 600px;
+}
+
+#submit-button {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.mydropdown {
+    margin-right: 10px;
+}

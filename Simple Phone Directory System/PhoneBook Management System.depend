@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514379280 source:c:\users\abhinash\documents\c++\phonebook management system\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<string.h>
+	<stdio.h>
+
