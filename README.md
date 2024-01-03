@@ -1,4 +1,4 @@
-# University-Projects (BCA)
+# University Projects (BCA)
 
 #### Major Project : Vehicle Information System
 ###### Description : A web based CRUD application designed and developed to manage vehicle details in a database and retrieve the data ( search any vehicle details ) when required.
